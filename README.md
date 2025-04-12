@@ -36,5 +36,5 @@ The goal was to build a **Linear Regression** model that predicts the **Sale Pri
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/house-price-regression.git
+   git clone https://github.com/ericaadag/house-price-regression.git
    cd house-price-regression
